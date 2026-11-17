@@ -1,0 +1,5 @@
+.venv/
+.miniprojects/
+__pycache__/
+.pytest_cache/
+*.json
