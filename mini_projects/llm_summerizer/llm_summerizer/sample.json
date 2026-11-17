@@ -1,0 +1,6 @@
+{
+  "input_file": "sample.txt",
+  "model": "llama3.2:3b",
+  "created_at": "2026-11-10T14:43:05.216251",
+  "summary": "The text explains the importance of a topic sentence in a paragraph. A topic sentence serves several purposes: it supports the thesis statement, unifies the content, and directs the reader. It is usually placed at the beginning of a paragraph, but can also be preceded by a sentence that links to the previous paragraph or provides background information. However, in some cases, such as when narrating a series of events or building upon a previous idea, a topic sentence may not be necessary. Overall, a topic sentence is usually a key element of a well-organized paragraph, but exceptions may exist in certain situations."
+}
