@@ -1,0 +1,6 @@
+{
+  "input_file": "docs/one.txt",
+  "model": "llama3.2:3b",
+  "created_at": "2026-11-17T14:56:15.865420",
+  "summary": "This text is a quote from William Shakespeare's play \"As You Like It\". It describes the concept of life as a series of stages, where people go through different roles and experiences. The stages include:\n\n1. Childhood: an infant crying in the arms of a nurse\n2. School: a whining schoolboy\n3. Adolescence: a lover, sighing and writing love letters\n4. Adulthood: a soldier, full of anger and quick to fight\n\nThe quote emphasizes the idea that people play different roles throughout their lives and that these roles change as they grow older."
+}
