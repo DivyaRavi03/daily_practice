@@ -1,0 +1,8 @@
+2026-11-11 10:00:01 INFO Server started
+2026-11-11 10:00:05 WARNING Disk space at 85%
+2026-11-11 10:01:12 ERROR Database connection failed
+2026-11-11 10:01:15 INFO Retrying connection
+this line is garbage
+2026-11-11 10:01:20 ERROR Retry failed
+
+2026-11-11 10:02:00 INFO User ERROR-report downloaded
