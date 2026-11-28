@@ -1,0 +1,8 @@
+{"model": "gpt-4o", "latency_ms": 820, "status": 200}
+{"model": "claude-sonnet", "latency_ms": 640, "status": 200}
+{"model": "gpt-4o", "latency_ms": 1100, "status": 200}
+
+{"model": "claude-sonnet", "latency_ms": 710.5, "status": 200}
+this is not json
+{"model": "gpt-4o", "status": 500}
+{"model": "llama-3", "latency_ms": 300, "status": 200}
